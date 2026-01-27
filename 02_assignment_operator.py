@@ -5,3 +5,7 @@ print(a)
 b = 4
 b += 6 #increase the value of b by 6 and then assign it in b
 print(b)
+
+c = 6
+c -= 4
+print(a)
